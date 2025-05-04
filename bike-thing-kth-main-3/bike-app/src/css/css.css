@@ -1,5 +1,0 @@
-*{ /*This is the global CSS doc. Here we can define rules for any HTML class (defined by us using the class = "someName" nomer in the components)*/
-    /*These style rules are then applied to all these classes when our main.js file imports this style document.*/
-    padding:0;
-    margin:0;
-}
